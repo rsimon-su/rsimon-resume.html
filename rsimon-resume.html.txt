@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		   <title>Rachel Simon Resume</title>
+	</head>
+
+	<body>
+	<section>
+        <h1>Education</h1>
+    <ul>Syracuse University
+	  	<li>College of Arts and Sciences and School of Information Studies</li>
+		<li> May 2020</li>
+  		<li>B.A., Psychology</li>
+ 		<li>Minor:Information Management and Technology</li>
+	</ul>
+
+		<h2>Experience</h2>	
+	<ul>NBC News Today Show; New York, NY, Booking Intern, May 2019 - August 2019
+	 	<li>Music and entertainment booking</li>
+		<li>Researches and pitches guests for show<li>
+		<li>Gathers entertainment headlines daily</li>
+		<li>Networks with talent and PR representatives</li>
+		<li>Assists with soundcheck and green room check-in during Plaza concerts and in studio</li>
+		<li>Creates pitch packets for potential guests and distributes during weekly pitch meetings</li>
+		<li>Updates upcoming guest information</li>
+	</ul>
+
+	<ul>Red Light Management; London, England, Music Management intern, Jan 2019-May 2019
+		<li>Assists management teams with day-to-day artist relations</li>
+		<li>Artist scheduling, calendar synchronization, and tour logistics</li>
+		<li>Update and maintain multiple artist and social networking websites</li>
+		<li>Drafts and edits documents such as endorsement letters, riders and press materials</li>
+		<li>Contacts and researches outlets for tour marketing and promotional support</li>
+	</ul>
+
+	<ul>University Union; Syracuse, NY, Public Relations Assistant Director, August 2019- Present
+		<li>Run a team of blog writers and holds weekly board meetings</li>
+		<li>Handles press during events such as concerts, lectures and comedy shows</li>
+		<li>Uses various marketing techniques relating to voice, image and tone</li>
+	</ul>
+
+		<h3>Skills<h/3>
+	<ul>
+		<li>Adobe Creative Suite/ Adobe Premier CC</li>
+		<li>Microsoft Office Suite</li>
+		<li>Influencer Intelligence</li>
+		<li>Coding</li>
+		<li>Bandsintown/ Songkick/ Musicglue</li>
+	</ul>
+<footer>
+        <p>Rachel Simon</p>
+        <p>Contact information: <a href="mailto:rsimon@syr.edu">
+        rsimon@syr.edu</a>.</p>
+    </footer>
+    </body>
+
+</html>
