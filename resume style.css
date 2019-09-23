@@ -1,0 +1,43 @@
+body {
+  background-color: white (224, 241, 243);   
+  font-family: "Comic Sans"
+  font-size: 55px;
+} 
+h1 {
+font-style: Bold;
+color: Gainsboro;
+padding-top: 50px;
+padding-right: 70px;
+padding-bottom: 30px;
+padding-left: 400px;
+background-image: linear-gradient( Pink, White);
+border-style: Dotted;
+}
+p1 {
+  padding-left: 300px;
+  padding-right: 70px;
+}
+h2
+    {
+      font-size: 33px;
+      font-style: Italic;
+      color: yellow
+    }
+
+  ul {
+    list-style-type: circle;
+    font-size:18 px;
+    color: black
+  }
+
+  h3 {
+      font-size: 20px;
+      font-style: bold;
+  }
+
+  footer
+  {
+    padding-bottom: 100px;
+  }
+
+
